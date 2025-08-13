@@ -1,7 +1,7 @@
 ## Olá, eu sou Roberth Vieira 👋
 ### 💻 Desenvolvedor Front-End em formação  
 
-🎓 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento front-end utilizando React, Next.js e TypeScript. Busco minha primeira oportunidade como desenvolvedor júnior para aplicar meus conhecimentos, aprimorar minhas habilidades e contribuir com soluções eficientes.
+🎓 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento front-end utilizando React e TypeScript. Busco minha primeira oportunidade como desenvolvedor júnior para aplicar meus conhecimentos, aprimorar minhas habilidades e contribuir com soluções eficientes.
 
 Desenvolvo interfaces modernas, funcionais e acessíveis, com atenção à componentização, responsividade e integração com APIs externas. Estou em constante evolução como desenvolvedor, com o objetivo de me tornar um profissional fullstack no futuro.
 
