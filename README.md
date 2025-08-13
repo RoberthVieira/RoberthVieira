@@ -64,6 +64,14 @@ Desenvolvo interfaces modernas, funcionais e acessíveis, com atenção à compo
   style="padding-right: 10px;"
 />
 <img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+  align="left"
+  alt="Tailwindcss"
+  title="Tailwindcss"
+  width="30px"
+  style="padding-right: 10px;"
+/>
+<img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
   align="left"
   alt="Git"
