@@ -40,6 +40,14 @@ Desenvolvo interfaces modernas, funcionais e acessíveis, com atenção à compo
   style="padding-right: 10px;"
 />
 <img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+  align="left"
+  alt="TypeScript"
+  title="TypeScript"
+  width="30px"
+  style="padding-right: 10px;"
+/>
+<img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
   align="left"
   alt="React"
